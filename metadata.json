@@ -1,0 +1,6 @@
+{
+  "name": "VividCoder",
+  "description": "Local-first AI coding workspace built with Samrey, TypeScript, and Vite for Python FastAPI, Ollama (Qwen3.5 4B / 9B), and SQLite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
